@@ -12,3 +12,5 @@ Objective(s)
 - Use of Grouping
 - Correlation and Causation analysis between features and target variable
 - Analysis of Variance (ANOVA).
+
+Project implemented in **IBM Skills Network Labs** virtual environment
