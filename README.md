@@ -10,5 +10,5 @@ Objective(s)
 - Analyzing Individual Feature Patterns using Visualization
 - Descriptive Statistical Analysis
 - Use of Grouping
-- Correlation and Causation analysis
-- ANOVA
+- Correlation and Causation analysis between features and target variable
+- Analysis of Variance (ANOVA).
